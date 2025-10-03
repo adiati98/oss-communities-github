@@ -46,7 +46,7 @@ jobs:
 
             In order to be considered for merging, the pull request changes must not be implemented on the "%branch%" branch.
 
-            We would suggest that you close this pull request, implement your changes, and open a new pull request.
+            We would suggest that you close this pull request, create a new branch, implement your changes, and open a new pull request.
 
   welcome:
     name: Welcome
